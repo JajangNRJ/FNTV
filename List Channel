@@ -55,7 +55,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4
 logo="https://mncvision.id/userfiles/image/channel/channel_95.png",ID OKTV
 http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3drQ-AANSJB3IHy_J2fxjM/m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/TICfntv.png?raw=true",Indonesia Channel
-http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+https://github.com/JajangNRJ/FNTV/blob/main/FOLDER%20FILE/Maintence.mp4?raw=true
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/RRIfntv.png?raw=true",RRI
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/2VjJqlC" group-title="LOKAL", SUMEDANG TV
