@@ -168,35 +168,100 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Indonesia
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Indonesia
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",BeIn Sports 2 Indonesia
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",BeIn Sports 2 Indonesia
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.jpg",MNC Sports 1
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+
+
+~~~~~KNOWLEDGE~~~~~
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTsw-FydW/bisnet-adventure-4k.png" group-title="KNOWLEDGE", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4L4dn04/discovery-asia.png" group-title="KNOWLEDGE",DISCOVERY ASIA 
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZ9JgHL/love-nature-4k.png" group-title="KNOWLEDGE",LOVE NATURE 
+https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpYKFDW5/OUTSIDE-TV.png" group-title="KNOWLEDGE",OUTSIDE TV
+https://outsidetvplus-stirr.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pLmqd4qx/PEOPLE-ARE-AWESOME.png" group-title="KNOWLEDGE",PEOPLE ARE AWESOME
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVfC96Dm/SMITHSONIAN.png" group-title="KNOWLEDGE", Smithsonian Channel 
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="KNOWLEDGE",NASA TV 
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet Southeast Asia
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg",BBC Earth Asia
+https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN Documentary
+https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/logo-ci.jpg",Crime + Investigation Asia
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel Southeast Asia
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
+https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png",National Geographic Asia
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png",National Geographic Wild Asia
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
