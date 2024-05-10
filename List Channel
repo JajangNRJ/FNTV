@@ -179,6 +179,24 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://icon.mammothtv.my.id/film/mcn.png" group-title="Film",My Cinema 
+http://210.210.155.35/session/c65f3ec8-74e8-11ec-8b65-b82a72d63267/uq2663/h/h192/index.m3u8 
+
+#EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://icon.mammothtv.my.id/film/mca.png" group-title="Film",My Cinema Asia 
+http://210.210.155.35/session/5f42685a-74e8-11ec-8b65-b82a72d63267/uq2663/h/h193/index.m3u8 
+
+#EXTINF:-1 tvg-id="MyCinemaEurope.id" tvg-logo="https://icon.mammothtv.my.id/film/mce.png" group-title="Film",My Cinema Europe 
+http://210.210.155.35/session/0c29f2d2-dd99-11eb-a245-b82a72d63267/uq2663/h/h18/index.m3u8
+ 
+#EXTINF:-1 tvg-id="MyFamily.id" tvg-logo="https://icon.mammothtv.my.id/film/mfc.png" group-title="Film",My Family Channel 
+http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8 
+
+#EXTINF:-1 tvg-id="RockEntertainment.sg" tvg-logo="https://i.postimg.cc/gk9LYKHW/20220926-201802.png" group-title="Hiburan",Rock Entertainment
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8 
+
+#EXTINF:-1 tvg-id="RockExtreme.sg" tvg-logo="https://i.postimg.cc/Df4bkNs6/20220926-201735.png" group-title="Hiburan",Rock Action
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+
 
 
 ~~~~~LIST SPORTS~~~~~
