@@ -55,7 +55,7 @@ https://github.com/JajangNRJ/FNTV/blob/main/FOLDER%20FILE/Maintence.mp4?raw=true
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/MAGNAfntv.png?raw=true",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/DAITVfntv.png?raw=true", DAAI TV
-http://210.210.155.35:80/session/94ebaf3c-6e05-11ec-9f16-b82a72d63267/qwr9ew/s/s13/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=DAAI_TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/JTVfntv.png?raw=true",JTV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 logo="https://mncvision.id/userfiles/image/channel/channel_95.png",ID OKTV
