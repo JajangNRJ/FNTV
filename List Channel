@@ -27,7 +27,7 @@ https://bit.ly/3Sc6EFk
 
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/RCTIfntv.png?raw=true",RCTI
-https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34322
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -39,7 +39,11 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://bit.ly/3MeFJVc
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/GTVfntv.png?raw=true",GTV
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34331
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
+#EXTINF:-1,#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://github.com/FNtv/Channel/blob/main/Img/ANTVfntv.png?raw=true",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
